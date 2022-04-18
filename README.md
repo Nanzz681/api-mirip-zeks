@@ -41,7 +41,11 @@
 <p align="center">
   <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
 </p>
+# Run On Heroku
 
+Simple WhatsApp Bot
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nanzz681/api-mirip-zeks)
 
 
 ## ```coffee ☕```
